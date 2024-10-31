@@ -6,8 +6,11 @@
 
 
 
-@layer base{
-  body {
-    @apply dark:bg-gray-800 bg-white
-  }
+.light{
+    background-color: white;
+    color: black;
+}
+.dark{
+    background-color: black;
+    color: white;
 }

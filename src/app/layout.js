@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={"bg-white dark:bg-slate-950"}
+
       >
       <Providers>
       <MainNavebar/>
